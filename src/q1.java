@@ -6,5 +6,6 @@ public class q1 {
         Scanner sc = new Scanner(System.in);
         String name = sc.next();
         System.out.println("Hello " + name + " have a good day");
+        System.out.println("hello");
     }
 }
